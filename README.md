@@ -18,9 +18,15 @@ Additionally, we only accept Logos for Tokens that are on our currently supporte
 - Polygon
 - Avalanche
 - Arbitrum
+- Arbitrum Nova
 - Fantom
 - CELO
 - Optimism
+- Gnosis 
+- Polygon zkEVM 
+- zkSync 
+- Canto
+- KCC
 
 For the most updated list of Supported Networks, please visit our [Docs](https://docs.dex.guru/data/supported-chains). 
 
