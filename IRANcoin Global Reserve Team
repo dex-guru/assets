@@ -1,0 +1,21 @@
+For DexGuru 
+
+base.dex.guru
+
+Subject: Polite Request for Token Logo Addition for IRANcoin Global Reserve (IRCOIN) on DexGuru Base ExplorerDear DexGuru Support Team,I hope this email finds you well. My name is Kenzo Hasashi, and I am reaching out on behalf of the IRANcoin Global Reserve (IRCOIN) project, a small private initiative dedicated to promoting financial accessibility and innovation through blockchain technology.We greatly appreciate the powerful on-chain analytics and block explorer tools provided by DexGuru, especially for the Base network. Your platform offers real-time insights and a user-friendly experience that is highly valued in the DeFi community.I am writing to kindly request your assistance in adding our official logo to the IRANcoin Global Reserve listing on DexGuru (Base explorer). This would enhance recognition for our community and align with the professional display on other explorers.Here are the relevant details for your reference:Token Contract Address: 0x49BA5D9A00115D494a01fb938ebd94bd919aa445 (on the Base Network)
+DexGuru Base Page (example): https://base.dex.guru/token/0x49ba5d9a00115d494a01fb938ebd94bd919aa445 (or similar)
+Official Logo URL (256x256 PNG, optimized; SVG/PNG available): https://i.ibb.co/353MDWVg/IRANcoin-LLC-256x256xtrustwallet.png
+Alternative Logo URL (200x200 PNG): https://i.ibb.co/Cp2WQ46s/IRANcoin-LLC-FOR-IRAN-PEOPLE-200x200x.png
+
+IRANcoin Global Reserve (IRCOIN) is a decentralized cryptocurrency launched on May 18, 2025, on the Base blockchain, supporting ERC-20, ERC-721, and ERC-1155 standards. It aims to create a stable, programmable global payment ecosystem focused on fairness and accessibility.Our token is already fully verified and displayed with logo on leading explorers, proving our eligibility:Blockscout (with green tick and logo): https://base.blockscout.com/token/0x49BA5D9A00115D494a01FB938EBd94BD919AA445
+Routescan (fully listed with logo): https://routescan.io/token/0x49BA5D9A00115D494a01fb938EBd94BD919AA445?chainid=8453
+
+We have over 200 holders and presence on multiple platforms (DexScreener, OKLink, etc.). If preferred, we can submit a Pull Request to your assets repository 
+
+github.com
+
+ with the logo file named appropriately (checksum address).Thank you for considering this request and for maintaining such an excellent tool for the ecosystem. Any guidance on the process would be greatly appreciated.With kind regards and appreciation,
+Kenzo Hasashi
+Email: xlogan1987@gmail.com
+IRANcoin Global Reserve Team
+
