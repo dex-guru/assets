@@ -1,0 +1,12 @@
+{
+  "symbol": "sETH",
+  "name": "Synth sETH",
+  "address": "0x25f2aabC1180DddAF5a859Be517dDA6dEC418773",
+  "decimals": 18,
+  "logo": "https://bafkreiamy6stfz25ez2ggmz3cj6apixuctmbl4cotlqkim4ke5ch5jlu2i.ipfs.inbrowser.link/",
+  "website": "https://sether.netlify.app/",
+  "community": {
+    "twitter": "https://x.com/SynthsETH",
+    "telegram": "https://t.me/sETH_NEW"
+  }
+}
